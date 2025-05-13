@@ -1,2 +1,20 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/bPoO8GTw)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19513799&assignment_repo_type=AssignmentRepo)
+NAme: Apurva Deodhar
+ID: 22000377
+
+Project Description:
+
+Mini Compiler for a Custom Programming Language Using Flex and Bison
+
+- Objective:
+To design and implement a compiler front-end for a simple custom programming language. The compiler supports variable declarations, arithmetic operations, conditional execution, and looping constructs. It uses Flex for lexical analysis and Bison for syntax parsing and intermediate code generation.
+
+- What the Project Does:
+Parses source code written in a custom language with syntax similar to high-level programming languages.
+
+Supports basic constructs:
+
+o Variable declaration: var a = 3
+o Arithmetic expressions: a + b, b - a, a * b, b / a
+o Conditional statements: if ... else
+o Loops: loop while condition { ... }
+o Generates intermediate code using temporary variables (e.g., t1, t2) and labels (e.g., L1, L2).
