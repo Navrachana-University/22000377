@@ -1,4 +1,4 @@
-
+start
 var a = 3
 var b = 7
 var sum = a + b
@@ -13,3 +13,4 @@ if sum > 10 {
 loop while sum < 20 {
     sum = sum + 1
 }
+stop
