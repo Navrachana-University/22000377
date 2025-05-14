@@ -1,5 +1,5 @@
-NAme: Apurva Deodhar
-ID: 22000377
+- Name: Apurva Deodhar 
+- ID: 22000377
 
 Project Description:
 
